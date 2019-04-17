@@ -1,3 +1,6 @@
+# DEPRECATION NOTICE
+The code in this repository is no longer maintained and is retained for historical purposes. For more information on how to use SPIRE with Kubernetes, please see the [Getting Started Guide for Kubernetes](https://spiffe.io/spire/getting-started-k8s/).
+
 # Spire-K8s
 
 This repo contains code and artifacts to integrate SPIRE and Kubernetes.
